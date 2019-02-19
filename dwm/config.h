@@ -16,8 +16,8 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const double defaultopacity  = 1.0;
-static const char *fonts[]          = { "monospace:size=10" };
-static const char dmenufont[]       = "monospace:size=10";
+static const char *fonts[]          = { "FuraCode Nerd Font:size=10:antialias=true:autohint=true" };
+static const char dmenufont[]       = "FuraCode Nerd Font:size=11:antialias=true:autohint=true";
 
 static const char col_base00[]      = "#1d1f21"; /* darkest-grey */
 static const char col_base08[]      = "#f92672"; /* vibrant pink */
