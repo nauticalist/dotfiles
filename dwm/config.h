@@ -10,24 +10,24 @@
 #define VOLDOWN_DIFF	"5%-"
 
 /* appearance */
-static const unsigned int borderpx  = 2;        /* border pixel of windows */
+static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int gappx	    = 10;
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const double defaultopacity  = 1.0;
+static const double defaultopacity  = 0.9;
 static const char *fonts[]          = { "FuraCode Nerd Font:size=10:antialias=true:autohint=true" };
 static const char dmenufont[]       = "FuraCode Nerd Font:size=11:antialias=true:autohint=true";
 
-static const char col_base00[]      = "#1d1f21"; /* darkest-grey */
-static const char col_base08[]      = "#f92672"; /* vibrant pink */
-static const char col_base0B[]      = "#a6e22e"; /* vibrant lime green */
-static const char col_base0A[]      = "#f4bf75"; /* beige-orange */
-static const char col_base0D[]      = "#66d9ef"; /* light-blue */
-static const char col_base0E[]      = "#ae81ff"; /* vibrant light-purple */
-static const char col_base0C[]      = "#a1efe4"; /* light-aqua */
+static const char col_base00[]      = "#1C1C1C"; /* darkest-grey */
+static const char col_base08[]      = "#AF5F5F"; /* vibrant pink */
+static const char col_base0B[]      = "#87AF87"; /* vibrant lime green */
+static const char col_base0A[]      = "#FF8700"; /* beige-orange */
+static const char col_base0D[]      = "#5F87AF"; /* light-blue */
+static const char col_base0E[]      = "#5F5F87"; /* vibrant light-purple */
+static const char col_base0C[]      = "#8FAFD7"; /* light-aqua */
 static const char col_base05[]      = "#f8f8f2"; /* white (ish) */
-static const char col_base03[]      = "#75715e"; /* grey */
+static const char col_base03[]      = "#BCBCBC"; /* grey */
 static const char col_base09[]      = "#fd971f"; /* orange */
 static const char col_base01[]      = "#383830"; /* dark-grey */
 static const char col_base02[]      = "#49483e"; /* darker-grey */
