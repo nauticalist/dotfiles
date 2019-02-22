@@ -19,19 +19,19 @@ static const double defaultopacity  = 0.9;
 static const char *fonts[]          = { "FuraCode Nerd Font:size=10:antialias=true:autohint=true" };
 static const char dmenufont[]       = "FuraCode Nerd Font:size=11:antialias=true:autohint=true";
 
-static const char col_base00[]      = "#1C1C1C"; /* darkest-grey */
-static const char col_base08[]      = "#AF5F5F"; /* vibrant pink */
-static const char col_base0B[]      = "#87AF87"; /* vibrant lime green */
-static const char col_base0A[]      = "#FF8700"; /* beige-orange */
-static const char col_base0D[]      = "#5F87AF"; /* light-blue */
-static const char col_base0E[]      = "#5F5F87"; /* vibrant light-purple */
-static const char col_base0C[]      = "#8FAFD7"; /* light-aqua */
-static const char col_base05[]      = "#f8f8f2"; /* white (ish) */
-static const char col_base03[]      = "#BCBCBC"; /* grey */
-static const char col_base09[]      = "#fd971f"; /* orange */
-static const char col_base01[]      = "#383830"; /* dark-grey */
+static const char col_base00[]      = "#161821"; /* darkest-grey */
+static const char col_base08[]      = "#e27878"; /* vibrant pink */
+static const char col_base0B[]      = "#b4be82"; /* vibrant lime green */
+static const char col_base0A[]      = "#e2a478"; /* beige-orange */
+static const char col_base0D[]      = "#89b8c2"; /* light-blue */
+static const char col_base0E[]      = "#84a0c6"; /* vibrant light-purple */
+static const char col_base0C[]      = "#95c4ce"; /* light-aqua */
+static const char col_base05[]      = "#c6c8d1"; /* white (ish) */
+static const char col_base03[]      = "#d2d4de"; /* grey */
+static const char col_base09[]      = "#e9b189"; /* orange */
+static const char col_base01[]      = "#6b7089"; /* dark-grey */
 static const char col_base02[]      = "#49483e"; /* darker-grey */
-static const char col_base04[]      = "#a59f85"; /* light-grey-green */
+static const char col_base04[]      = "#c0ca8e"; /* light-grey-green */
 static const char col_base06[]      = "#f5f4f1"; /* white (ish) */
 static const char col_base0F[]      = "#cc6633"; /* white (ish) */
 static const char col_base07[]      = "#f9f8f5"; /* white (ish) */
